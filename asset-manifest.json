@@ -1,0 +1,16 @@
+{
+  "main.css": "/todo123/static/css/main.9ef51593.chunk.css",
+  "main.js": "/todo123/static/js/main.843e000f.chunk.js",
+  "main.js.map": "/todo123/static/js/main.843e000f.chunk.js.map",
+  "runtime~main.js": "/todo123/static/js/runtime~main.9136ab02.js",
+  "runtime~main.js.map": "/todo123/static/js/runtime~main.9136ab02.js.map",
+  "static/js/2.d1d24e56.chunk.js": "/todo123/static/js/2.d1d24e56.chunk.js",
+  "static/js/2.d1d24e56.chunk.js.map": "/todo123/static/js/2.d1d24e56.chunk.js.map",
+  "index.html": "/todo123/index.html",
+  "precache-manifest.a97a42b2f283279fccf221b4b57fa484.js": "/todo123/precache-manifest.a97a42b2f283279fccf221b4b57fa484.js",
+  "service-worker.js": "/todo123/service-worker.js",
+  "static/css/main.9ef51593.chunk.css.map": "/todo123/static/css/main.9ef51593.chunk.css.map",
+  "static/media/check.svg": "/todo123/static/media/check.40eb9cc6.svg",
+  "static/media/checkdone.svg": "/todo123/static/media/checkdone.d29f1779.svg",
+  "static/media/tick.svg": "/todo123/static/media/tick.c0cbd084.svg"
+}
